@@ -1,0 +1,83 @@
+.nav-brand{
+    font-weight:bold;
+}
+.navbar-nav{
+    color:grey;
+}
+.nav-item dropdown{
+    font-size:15px;
+}
+.nav ul{
+    color:grey;
+    font-size:15px;
+}
+/* .carousel-item {
+    height:500px;
+    width:1200px;
+} */
+.fa fa-shopping-cart{
+    font-size:15px;
+}
+.fa fa-search{
+    color:grey;
+    font-size:15px;
+
+}
+.carousel-item img{
+    height:500px;
+    width:1200px;
+}
+.carousel-caption{
+    text-align:left;
+    top:40px;color:white;
+    left:20px;
+    width:400px;
+}
+.carousel-caption h1{
+    font-size:50px;
+}
+
+    
+.card-body{
+    text-align:center;
+}
+.btn btn-outline-dark{
+    border:1px solid grey;
+    padding-left:20px;
+    padding-right:20px;
+    width:100px;
+
+}
+.topbar{
+    border:1px solid white;
+    color:white;
+    padding-left:20px;
+    padding-right:20px;
+    
+    text-align:center;
+}
+.back{
+    background-image:url(./images/shopper.jpg);
+    background-size:cover;
+    height:400px;
+}
+.rule{
+    height:150px;
+}
+.icon{
+    font-size:100px;
+    color:grey;
+}
+.busy {
+    text-align:center;
+    margin-left:80px;
+    margin-right:80px;
+}
+.block {
+    border:1px solid grey;
+}
+.end {
+    background-image:url(./images/bag.jpg);
+    background-size:cover;
+    
+}
